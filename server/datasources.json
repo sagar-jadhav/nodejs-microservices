@@ -1,0 +1,12 @@
+{
+  "mongoDS": {
+    "host": "",
+    "port": 27017,
+    "url": "",
+    "database": "",
+    "password": "",
+    "name": "mongoDS",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
